@@ -18,20 +18,20 @@ open LeaDer-E.py then put UR E-mail and Password it's the only method right now 
     username = "E-mail@Address.com"
     password = "Your Pretty Password Here"
     
-Then u can Chose The Target Vedios you need, but u have choose the vedios that have more than 100 comment and past ther links here:
+Then u can Chose The Target Perople you need to give them ur like, and past ther links here:
 
     ######################################################################################################################
     #Links
-    Per1 = ('https://www.tiktok.com/@momabdoahmed')
-    Per2 = ('https://www.tiktok.com/@_n.b8_8')
-    Per3 = ('https://www.tiktok.com/@user60010882611541')
-    Per4 = ('https://www.tiktok.com/@user472060960anzr')
-    Per5 = ('https://www.tiktok.com/@dyl70sv1mm7z')
-    Per6 = ('tiktok.com/@nadanas7er')
-    Per7 = ('https://www.tiktok.com/@maryoma595')
-    Per8 = ('https://www.tiktok.com/@user3529676852721')
-    Per9 = ('https://www.tiktok.com/@gtxgtg')
-    Per10 = ('https://www.tiktok.com/@momabdoahmed')
+    Per1 = ('Person1')
+    Per2 = ('Person2')
+    Per3 = ('Person3')
+    Per4 = ('Person4')
+    Per5 = ('Person5')
+    Per6 = ('Person6')
+    Per7 = ('Person7')
+    Per8 = ('Person8')
+    Per9 = ('Person9')
+    Per10 = ('Person10')
     ######################################################################################################################
 
 ## Speed 
