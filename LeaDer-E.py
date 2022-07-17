@@ -1,6 +1,6 @@
 #login Information
-username = "Ur E-mail"
-password = "UrPassword"
+username = "E-mail@Address.com"
+password = "Your Pretty Password Here"
 
 ######################################################################################################################
 #Links
