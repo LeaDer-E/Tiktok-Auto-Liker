@@ -1,5 +1,6 @@
 # Tiktok Commenter Follow
-A tool made by "Selenium + Python" can make you do Follow the last 100 people who made comments on the targeted video
+A tool made by "Selenium + Python" that can target specific people to like 150 videos of them on their personal page in no more than five minutes, and you can choose 10 people and leave the tool running to like 1500 videos in approximately 45 minutes only
+
 
 # Install Command
 Open Ur Terminal or CMD then copy & paste:
@@ -19,19 +20,22 @@ open LeaDer-E.py then put UR E-mail and Password it's the only method right now 
     
 Then u can Chose The Target Vedios you need, but u have choose the vedios that have more than 100 comment and past ther links here:
 
-    Vid1 = ('https://www.tiktok.com/@to 100 commenters follow')
-    Vid2 = ('https://www.tiktok.com/@to 200 commenters follow')
-    Vid3 = ('https://www.tiktok.com/@to 300 commenters follow')
-    Vid4 = ('https://www.tiktok.com/@to 400 commenters follow')
-    Vid5 = ('https://www.tiktok.com/@to 500 commenters follow')
-    Vid6 = ('https://www.tiktok.com/@to 600 commenters follow')
-    Vid7 = ('https://www.tiktok.com/@to 700 commenters follow')
-    Vid8 = ('https://www.tiktok.com/@to 800 commenters follow')
-    Vid9 = ('https://www.tiktok.com/@to 900 commenters follow')
-    Vid10 = ('https://www.tiktok.com/@to 1000 commenters follow')
+    ######################################################################################################################
+    #Links
+    Per1 = ('https://www.tiktok.com/@momabdoahmed')
+    Per2 = ('https://www.tiktok.com/@_n.b8_8')
+    Per3 = ('https://www.tiktok.com/@user60010882611541')
+    Per4 = ('https://www.tiktok.com/@user472060960anzr')
+    Per5 = ('https://www.tiktok.com/@dyl70sv1mm7z')
+    Per6 = ('tiktok.com/@nadanas7er')
+    Per7 = ('https://www.tiktok.com/@maryoma595')
+    Per8 = ('https://www.tiktok.com/@user3529676852721')
+    Per9 = ('https://www.tiktok.com/@gtxgtg')
+    Per10 = ('https://www.tiktok.com/@momabdoahmed')
+    ######################################################################################################################
 
 ## Speed 
-the code follow 100 person at every 30 min. i think it's good, to don't get ban from follow people for one day
+the code make 150 Likes at every 2 min. but i have but sleep time 1 min. every 50 likes, it's can like 150 vedio every 5 min, i think it's good, to don't get ban from Likes for one day.
 
 ## Browser 
 you have to choose your best automation browser, but i'am like the "undetectable browser because it's the best at this tool
@@ -90,11 +94,10 @@ try to restart the code or change the vedio link
 Please feel free to file an [issue][issue] if this client doesn't work as
 expected.
 
-[issue]: https://github.com/LeaDer-E/Tiktok-Commenter-Follow/issues/new
+[issue]: https://github.com/LeaDer-E/Tiktok-Auto-Liker/issues/new
 
 # Vedio on youtube
-[![Watch the video](https://user-images.githubusercontent.com/99460904/179158938-e161db4b-c111-446a-ab21-0da683a6e8d2.png)](https://www.youtube.com/watch?v=opPRDQo3PA0)
-
+Soon
 
 
 # Support
