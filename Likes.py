@@ -1,10 +1,10 @@
 #login Information
-username = "eslaammustafa@gmail.com"
-password = "GetMyMM5620!"
+username = "Username"
+password = "Password"
 
 ######################################################################################################################
 #Links
-Per1 = ('https://www.tiktok.com/@momabdoahmed')
+Per1 = ('Person1')
 Per2 = ('https://www.tiktok.com/@_n.b8_8')
 Per3 = ('https://www.tiktok.com/@user60010882611541')
 Per4 = ('https://www.tiktok.com/@user472060960anzr')
