@@ -1,4 +1,4 @@
-# Tiktok Commenter Follow
+# Tiktok Auto Liker
 A tool made by "Selenium + Python" that can target specific people to like 150 videos of them on their personal page in no more than five minutes, and you can choose 10 people and leave the tool running to like 1500 videos in approximately 45 minutes only
 
 
